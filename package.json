@@ -1,0 +1,12 @@
+{
+  "name": "popclip-open-path",
+  "private": true,
+  "description": "PopClip extension: open the selected path in Finder, or Shift-click for a new iTerm2/Terminal window at that path.",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@popclip/types": "^2.1.0",
+    "typescript": "^5.9.0"
+  }
+}
