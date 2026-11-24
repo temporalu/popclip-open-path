@@ -1,7 +1,7 @@
 // #popclip
 // identifier: com.temporalu.popclip.open-path
 // name: Open Path
-// icon: symbol:folder
+// icon: symbol:finder
 // popclipVersion: 6285
 // entitlements: [script]
 // requirements: [path]
